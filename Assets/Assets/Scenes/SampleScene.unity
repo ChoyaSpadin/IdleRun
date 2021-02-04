@@ -590,7 +590,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 220, y: 142}
+  m_AnchoredPosition: {x: 220, y: 156}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &882084652
@@ -815,6 +815,7 @@ MonoBehaviour:
   distanciaMinimaChao: 0.5
   multiplacadorPontos: 1
   pontosText: {fileID: 1705082376}
+  highscoreText: {fileID: 882084652}
   animatorCompoent: {fileID: 1494870138}
 --- !u!50 &1494870134
 Rigidbody2D:
@@ -994,7 +995,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 289, y: 142}
+  m_AnchoredPosition: {x: 289, y: 156}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1705082376
